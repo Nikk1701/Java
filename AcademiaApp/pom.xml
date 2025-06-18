@@ -23,7 +23,7 @@
     </build>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>17</maven.compiler.release> <!-- ajuste para sua versão do Java -->
+        <maven.compiler.release>17</maven.compiler.release>
     </properties>
     
     <dependencies>
